@@ -4,6 +4,7 @@ public class ConstructorDemo {
 
     public  ConstructorDemo(){ //constractor
 
+
     }
 
 
@@ -13,6 +14,8 @@ public class ConstructorDemo {
     }
     public static void sum (int a){
         System.out.println(a+a+a+a);
+
+        System.out.println("THIS IS THE MORE CODE FOR QA BRANCH");
 
     }
 
